@@ -1,4 +1,6 @@
 #1254
+#Number of Closed Island Problem.
+#This can be solved using either DFS or BFS. I prefer DFS 
 
 class Solution(object):
     def closedIsland(self, grid):
