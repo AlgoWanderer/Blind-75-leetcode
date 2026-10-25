@@ -1,1 +1,1 @@
-My attempt at solving all of the Blind 75 problems in Python. Not every solution is optimal. I often try brute force first, then work toward better time and space complexity, so you may see multiple approaches to the same problem.
+My attempt at solving all of the Blind 75 problems(and a few more) in Python. Not every solution is optimal. I often try brute force first, then work toward better time and space complexity, so you may see multiple approaches to the same problem.
